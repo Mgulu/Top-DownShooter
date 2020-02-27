@@ -1,0 +1,32 @@
+Enemy towards user maths
+screen shrinking 
+bullets towards mouse 
+pause menu
+
+
+
+
+
+
+////
+BETTER VARIABLE NAMES
+Capital letters for constants 
+DISPLAY 
+
+
+~~~~Use 'SansSerif' as font
+
+
+
+
+
+////restarting the game
+//// Player rotation aswell as enemy rotation
+
+Additional features:
+Instruction menu
+
+Poqwweups
+
+Extra speed
+Extra Bullet
